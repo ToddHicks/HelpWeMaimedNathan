@@ -1,0 +1,30 @@
+Achievements (by zone)
+
+The Farm:
+Dogs best friend (collect 12 tennis balls)
+Goat Slayer (kill 15 goats)
+PETA Enemy (kill a dog and a cat)
+
+The Forest:
+Snake Hunter (kill 5 snakes)
+Vegetarian (kill 5 plants)
+Mushroom Hunter (collect 5 mushrooms)
+
+The Road:
+Pedestrian Paradise (complete challenges without help)
+Ruffian (defeat 20 citizens)
+
+The Market:
+Thug (break 5 bottles)
+Frequent Shopper (get kicked out 10 times)
+Black Friday Surviver (experience the Black Friday 
+                   Smack Down and live to talk about it.
+
+The Fair
+Gamer (beat all games)
+Socialite (make 5 friends)
+
+World
+Mamma Pleaser (collect all ingredients)
+Dadda Pleaser (collect all game pieces)
+Max Achiever (complete all achievements)
